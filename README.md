@@ -57,3 +57,7 @@ If needed, repeat steps 1 and 2 from previous section.
 `minikube service list`
 
 ## Liveness/Readyness check - present in both versions (please take a look in `.yaml` files)
+
+## Memory scaling 
+
+Metrics server doesn't work on my machine/OS , which makes it impossibe to do this task
